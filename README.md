@@ -1,6 +1,6 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
 
-![Demo App](/frontend/public/screenshot-for-readmee.png)
+![Demo App](/frontend/public/screenshot-for-readmee.png.png)
 # Netflix Clone
 
 ## Overview
